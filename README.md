@@ -5,7 +5,7 @@
   Como Agente Comunitário de Saúde (ACS), uma das maiores dificuldades que enfrento é o controle e gerenciamento de exames de pacientes: datas, locais, entregas e quem recebeu.
   Este projeto surgiu para facilitar esse trabalho, permitindo cadastrar, listar, editar e remover exames, além de acompanhar prazos e exames prestes a vencer.
 
-  É meu primeiro projeto em Python, focado em praticidade e funcionalidade. À medida que evoluir como programador, pretendo refinar o sistema, incluindo melhorias na interface e funcionalidades extras.
+  É meu primeiro projeto em Python estudando programação há 2 mêses, é um projeto focado em praticidade e funcionalidade. À medida que evoluir como programador, pretendo refinar o sistema, incluindo melhorias na interface e funcionalidades extras.
 
 ➡️ Funcionalidades
 
